@@ -11,8 +11,8 @@ mempelajari bahasa program java 21%.
 
 *belajar tentang variabel, tipe data, logika perbandingan*.
 
-*belajar tentang sintaks dan case sensitive.
+*belajar tentang sintaks dan case sensitive.*
 
-*mempelajari statement dan whitespace.
+*mempelajari statement dan whitespace.*
 
-saya juga mempelajari materi  Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak dan materi Penyelesaian Masalah Menggunakan Cara Berpikir Komputasional* .
+*saya juga mempelajari materi  Studi Kasus Pembuatan Dokumen Spesifikasi Kebutuhan Perangkat Lunak dan materi Penyelesaian Masalah Menggunakan Cara Berpikir Komputasional*.
