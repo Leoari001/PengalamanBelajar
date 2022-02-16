@@ -1,7 +1,7 @@
 # PengalamanBelajar
 repository ini berisi pengalaman belajarku didicodin academy
 
-7 febuari 2022-11 febuari 2022.
+**7 febuari 2022-11 febuari 2022.**
 
 *alhamdulillah minggu pertama saya mempelajari Tentang SKPL progres(53%)*.
 
